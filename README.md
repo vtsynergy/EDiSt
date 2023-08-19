@@ -19,3 +19,9 @@ make
 ./EDiSt --help
 ./DivideAndConquerSBP --help
 ```
+
+# LICENSE 
+
+&copy; Virginia Polytechnic Institute and State University, 2023.
+
+Please refer to the included [LICENSE](./LICENSE) file.
